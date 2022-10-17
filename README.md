@@ -1,2 +1,1 @@
-# HTML5_Bootstrap
-Created with CodeSandbox
+This is Web Design Class.
